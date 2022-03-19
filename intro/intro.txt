@@ -1,0 +1,5 @@
+1.install typescript globally using "npm i -g typescript"
+2. write your code in .ts extension file , but issue is browser doesnot understand ts , so typescript need to converted into js but we donot have to do it manually , when we will compile/run ts file in terminal it will automaticllay crate .js file.
+
+**** command to run typescript file is "tsc <filename>"
+3. we can directly run js file using "node <filename>"
