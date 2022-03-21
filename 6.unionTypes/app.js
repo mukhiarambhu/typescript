@@ -1,4 +1,5 @@
-//uniontype- defining more than one type to variable is known as uniontype
+"use strict";
+exports.__esModule = true;
 var temp = 0;
 console.log(temp);
 temp = "Rambhu";

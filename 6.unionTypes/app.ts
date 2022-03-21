@@ -1,5 +1,5 @@
 //uniontype- defining more than one type to variable is known as uniontype
-
+export {}
 let temp: number | string | boolean = 0
 console.log(temp)
 temp = "Rambhu"
