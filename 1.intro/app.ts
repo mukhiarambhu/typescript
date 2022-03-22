@@ -6,4 +6,4 @@ class Hello{
 }
 
 let y = new Hello()
-this.names 
+y.test()
