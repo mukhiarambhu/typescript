@@ -1,3 +1,5 @@
+export{}
+
 class Parent{
     names:string; //setiing type of parent property
    setName(name:string):void{ //as this method isnot returning anything type is void
