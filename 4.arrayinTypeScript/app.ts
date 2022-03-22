@@ -8,7 +8,7 @@ console.log(users)
 
 //how to define type of array
 
-let temp: string[] = ["abc", "def"]
+let temp: string[] = ["abc", "def","ghi"]
 console.log(temp)
 
 //how to define array having multiple type
