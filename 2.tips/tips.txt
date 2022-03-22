@@ -6,5 +6,5 @@ when another js file is created with same as of ts file after compiling typescri
 2.watch module-- 
 if we see each time there is change in ts file every time we need to compile it to reflect change, to avoid this , to compile use this code "tsc <filename> --watch"
 
-3. we can directly run js file using "node <filename>
+3. we can directly run js file using "node <filename>"
 4. if you noticed  "let" was use to declare a variable in typescript file but in javascript it was converted into "var" due to cross plateform compatibility.
