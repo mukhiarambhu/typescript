@@ -8,4 +8,3 @@ var temp = "hello ts";
 console.log(temp);
 //3 boolean
 var flag = true;
-console.log(flag);
