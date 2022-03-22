@@ -1,4 +1,5 @@
-// how to define type of property
+"use strict";
+exports.__esModule = true;
 var user = /** @class */ (function () {
     function user(name) {
         this.name = name;

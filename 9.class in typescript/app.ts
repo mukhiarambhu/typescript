@@ -1,5 +1,5 @@
 // how to define type of property
-
+export{}
 class user{
     name: string //property name should be of string only
     constructor(name:string ) { //parameter which is passed should be of string only
